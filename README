@@ -1,0 +1,1 @@
+This program utilizes a hashmap data structure. It takes input from a csv file that has movies from 1902 to 2018 inserting the title as the key and the year and genre as values. Then it outputs the genre count overall, the genre count of the last 5 years and the number of movies of each genre from every year since 1902 to 2018.
