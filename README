@@ -1,1 +1,2 @@
+# Movie Genres README
 This program utilizes a hashmap data structure. It takes input from a csv file that has movies from 1902 to 2018 inserting the title as the key and the year and genre as values. Then it outputs the genre count overall, the genre count of the last 5 years and the number of movies of each genre from every year since 1902 to 2018. It does this by iterating through the Hashmap and checking conditions based on the desires outputs those being overall genre count, last 5 year movie count per genre and movie count per genre from 1902 to 2018.
